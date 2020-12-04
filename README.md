@@ -27,3 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalsingha&show_icons=true&locale=en" alt="vishalsingha" /></p>
 
+# Contribution:
+
+* Updated the older link to Ubuntu 16.04 (CUDA 10.1) [#1755](https://github.com/tensorflow/docs/pull/1755)
+
