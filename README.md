@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalsingha&label=Profile%20views&color=0e75b6&style=flat" alt="vishalsingha" /> </p>
 
-- 🔭 I’m currently working at [Upjao llp](https://upjao.ai/)
+- 🔭 I’m currently working at [KPIT](https://www.kpit.com/)
 
 - 🌱 I’m currently learning **Spark**
 
