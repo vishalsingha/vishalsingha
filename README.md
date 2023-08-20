@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Vishal SIngh</h1>
-<h3 align="center">I am passionate about data science, machine learning, and computer vision</h3>
+<h1 align="center">Hi 👋, I'm Vishal Singh</h1>
+<h3 align="center">I am passionate about data science, machine learning, and NLP</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalsingha&label=Profile%20views&color=0e75b6&style=flat" alt="vishalsingha" /> </p>
 
-- 🔭 I’m currently working at [KPIT](https://www.kpit.com/)
+- 🔭 I’m currently working at [Infoedge (Naukri)](https://www.infoedge.in/)
 
-- 🌱 I’m currently learning **Spark**
+- 🌱 I’m currently learning **LLM**
 
 - 👯 I’m looking to collaborate on **Data Science, Machine learning**
 
-- 💬 Ask me about **Data Science, Machine Learning, Deep Learning, Computer Vision.**
+- 💬 Ask me about **Data Science, Machine Learning, Deep Learning, Computer Vision and NLP**
 
 - 📫 How to reach me **vishal09vns@gmail.com**
 
