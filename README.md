@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Singh</h1>
-<h3 align="center">I am passionate about data science, machine learning, and NLP</h3>
+<h3 align="center">a professional in the field of data science, machine learning, and Generative AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalsingha&label=Profile%20views&color=0e75b6&style=flat" alt="vishalsingha" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science, Machine learning, Generative AI**
 
-- Read my blogs at medium[https://medium.com/@vishal09vns].
+- Explore my thoughts and insights on data science and related topics on my [Medium profile](https://medium.com/@vishal09vns).
 
 - 💬 Ask me about **Data Science, Machine Learning, Deep Learning, Computer Vision and NLP**
 
