@@ -5,9 +5,11 @@
 
 - 🔭 I’m currently working at [Infoedge (Naukri)](https://www.infoedge.in/)
 
-- 🌱 I’m currently learning **LLM**
+- 🌱 I’m currently working on **Generative AI**
 
-- 👯 I’m looking to collaborate on **Data Science, Machine learning**
+- 👯 I’m looking to collaborate on **Data Science, Machine learning, Generative AI**
+
+- Read my blogs at medium[https://medium.com/@vishal09vns].
 
 - 💬 Ask me about **Data Science, Machine Learning, Deep Learning, Computer Vision and NLP**
 
