@@ -29,7 +29,7 @@ Previously at **Infoedge (Naukri)** building LLM-powered products at production 
 A reasoning-centric LLM achieving **87.8% on JEE Mains '25**, **93% on JEE Mains '26**, and **86.51% on JEE Advanced** — matching or outperforming GPT-4o-mini and Gemini 2.5 Flash at **10× lower cost**.
 - Trained using **GRPO** (Reinforcement Learning) with curriculum learning, rejection sampling, and checkpoint merging
 - Developed a verified reward framework using math-verify, LLM-based rewards, and length penalties
-- 📄 *[Aryabhata 2: Scaling Reinforcement Learning for Advanced STEM Reasoning]()*
+- 📄 *[Aryabhata 2: Scaling Reinforcement Learning for Advanced STEM Reasoning](https://arxiv.org/abs/2605.28829)*
 - 🏅 **Second Runner-Up** at NASSCOM Open-Source GenAI Grand Challenge 2025
 - Presented at **AI4India Summit** and **AI Impact Summit**
 
