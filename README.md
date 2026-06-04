@@ -63,6 +63,6 @@ A 4B-parameter model delivering near-SOTA performance on conceptual questions fo
 ## Publications & Recognition
 
 - 📄 **[Aryabhata 2](https://arxiv.org/abs/2605.28829))**: *Scaling Reinforcement Learning for Advanced STEM Reasoning*
-- 📄 **[Aryabhata 1.0](https://arxiv.org/abs/2508.08665)**: Contributed to JEE math paper — presented at **NeurIPS Workshop**
+- 📄 **[Aryabhata 1.0](https://arxiv.org/abs/2508.08665)**: Contributed in evaluation of JEE math paper — presented at **NeurIPS Workshop**
 - 🥈 **2nd Runner-Up** — NASSCOM Open-Source GenAI Grand Challenge, 2025
 - 🥉 **3rd Place** — Recognizance ML Challenge Series, National Level, 2021
