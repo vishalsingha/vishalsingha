@@ -25,7 +25,8 @@ Previously at **Infoedge (Naukri)** building LLM-powered products at production 
 
 ## Featured Work
 
-### 🏆 Aryabhatta — Reasoning LLM for JEE & NEET *(Physics Wallah)*
+### 🏆 [Aryabhata 1.0](https://huggingface.co/PhysicsWallahAI/Aryabhata-1.0) and [Aryabhata 2.0](https://huggingface.co/PhysicsWallahAI/Aryabhata-2.0) — Reasoning LLM for JEE & NEET *(Physics Wallah)*
+
 A reasoning-centric LLM achieving **87.8% on JEE Mains '25**, **93% on JEE Mains '26**, and **86.51% on JEE Advanced** — matching or outperforming GPT-4o-mini and Gemini 2.5 Flash at **10× lower cost**.
 - Trained using **GRPO** (Reinforcement Learning) with curriculum learning, rejection sampling, and checkpoint merging
 - Developed a verified reward framework using math-verify, LLM-based rewards, and length penalties
@@ -40,10 +41,10 @@ A 4B-parameter model delivering near-SOTA performance on conceptual questions fo
 - Achieves high accuracy at **15× lower inference cost** than SOTA models
 
 ### 💼 LLM Products @ Infoedge (Naukri)
-- Built fine-tuning & RL workflows for JD generation, CV summarization, and job entity extraction
-- Deployed high-speed inference APIs with **vLLM** (paged attention, KV-caching, continuous batching)
-- Engineered **AskNaukri** — an agentic chatbot with RAG + tool calling (Job Search, Salary Insights)
-- Built a personalized job requirement suggestion system using ANN-based retrieval with **Milvus DB**
+- Built fine-tuning & RL workflows for JD generation, CV summarization, job entity extraction and AskNaukri. 
+- Deployed high-speed inference APIs with **vLLM** (paged attention, KV-caching, continuous batching) for productions usecases. 
+- Finetuned Llama 3 to build **AskNaukri** for jobseekers — an agentic chatbot with RAG + tool calling (Job Search, Salary Insights, company perks). 
+- Built a personalized job requirement suggestion system as part of **Naukri AI** suite using ANN-based retrieval, ranking system with **Milvus DB**.
 
 ---
 
@@ -51,17 +52,17 @@ A 4B-parameter model delivering near-SOTA performance on conceptual questions fo
 
 | Domain | Tools & Frameworks |
 |---|---|
-| **LLMs & GenAI** | Transformers, LoRA, RLHF, GRPO, DPO, RLVR, RAG, vLLM |
+| **LLMs & GenAI** | Transformers, LoRA, RLHF, GRPO, DPO, RLVR, RAG, AgenticAI, vLLM |
 | **MLOps & Backend** | LangChain, FastAPI, Docker, PySpark, AWS, Azure, Langfuse, Nginx |
 | **Vector DBs** | Milvus, FAISS, ChromaDB |
-| **ML & DL** | PyTorch, TensorFlow, Scikit-learn, OpenCV, NumPy, Pandas |
-| **Data & Systems** | MySQL, Spark, Locust, Supervisor |
+| **ML & DL** | PyTorch, Transformers, TRL, VERL, Scikit-learn, OpenCV, NumPy, Pandas |
+| **Data & Systems** | MySQL, Postgres, Spark, Locust, Supervisor |
 
 ---
 
 ## Publications & Recognition
 
-- 📄 **Aryabhata 2**: *Scaling Reinforcement Learning for Advanced STEM Reasoning* *(pre-print)*
-- 📄 **Aryabhata 1.0**: Contributed to JEE math reasoning paper — presented at **NeurIPS Workshop**
+- 📄 **[Aryabhata 2](https://arxiv.org/abs/2605.28829))**: *Scaling Reinforcement Learning for Advanced STEM Reasoning*
+- 📄 **[Aryabhata 1.0](https://arxiv.org/abs/2508.08665)**: Contributed to JEE math paper — presented at **NeurIPS Workshop**
 - 🥈 **2nd Runner-Up** — NASSCOM Open-Source GenAI Grand Challenge, 2025
 - 🥉 **3rd Place** — Recognizance ML Challenge Series, National Level, 2021
